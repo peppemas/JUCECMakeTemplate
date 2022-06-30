@@ -1,5 +1,5 @@
 # JUCE CMake Repo Prototype
-A prototype to model a way to create an entire repo using JUCE 6 and CMake.
+A prototype to model a way to create an entire repo using JUCE 7 and CMake.
 
 This is inspired by a desire to keep the environment setting of my projects to minimum,
 making sure the the environment is identical for every developer/machine.
